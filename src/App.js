@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <div>Banmua</div>
-      <div>Under construction</div>
     </div>
   );
 }
