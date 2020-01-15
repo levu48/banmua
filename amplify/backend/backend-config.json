@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"banmua37e63e38": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
